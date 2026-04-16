@@ -20,13 +20,9 @@ I specialize in MIS reporting, Power BI dashboards, and data‑driven operationa
 🛠️ Skills & Tools
 
 Data Visualization: Power BI, DAX, Excel Dashboards
-
 MIS Reporting: Daily / Weekly / Monthly MIS, MOR & QBR decks
-
 Data Handling: Excel (Advanced), CSV, SQL basics
-
 Domains: Supply Chain, Warehousing, Financial MIS, Compliance
-
 Other: Documentation, SOPs, Automation & Innovation Tracking
 
 
