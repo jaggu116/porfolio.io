@@ -48,6 +48,11 @@ Executive‑ready visuals for reviews
 📸 Dashboard Previews
 Screenshots of my Power BI dashboards are available in individual project repositories under the /screenshots folder (with sensitive data masked).
 
+<img width="1406" height="772" alt="image" src="https://github.com/user-attachments/assets/afbbc327-0bb0-447e-be9d-0043e4f39307" />
+<img width="1383" height="792" alt="image" src="https://github.com/user-attachments/assets/56ee6e4b-4a8a-43cb-b945-9ff8e9e6c825" />
+<img width="1393" height="780" alt="image" src="https://github.com/user-attachments/assets/7cf356fb-1f68-4ca9-9ca8-ce24fccf634c" />
+
+
 📄 Documentation
 Each project includes:
 
